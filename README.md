@@ -13,8 +13,8 @@ Requirements: `fd`, `rg`, `stylua`, `gofmt`, `clang-format`, `wl-clipboard` (or 
 ## Plugins
 
 alpha-nvim, which-key, treesitter, nvim-cmp, conform, gitsigns, ts-comments,
-todo-comments, guess-indent, gruvbox, render-markdown, toggleterm, neo-tree,
-telescope
+todo-comments, guess-indent, pywal16 (default), gruvbox (fallback),
+render-markdown, toggleterm, neo-tree, telescope
 
 ## Keymaps
 
